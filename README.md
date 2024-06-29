@@ -1,6 +1,6 @@
 # Social Media Application
 
-![App Screenshot](./screenshots/app-screenshot.png)
+![App Screenshot](./screenshots/feed.gif)
 
 This project is a full-stack social media application built using the MERN stack. It includes features such as user authentication, context API for state management, socket.io for real-time chat, feed posts, and private messaging.
 
