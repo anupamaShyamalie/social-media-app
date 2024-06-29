@@ -25,25 +25,17 @@ This project is a full-stack social media application built using the MERN stack
 ## Technologies Used
 
 - **Frontend**: 
-  - <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
-  - <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-  - <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-  - <img src="https://img.icons8.com/color/48/000000/socket-io.png"/> Socket.io-client
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="24" height="24" /> React
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="24" height="24" /> JavaScript
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="24" height="24" /> CSS
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="24" height="24" /> Socket.io-client
 - **Backend**: 
-  - <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
-  - <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
-  - <img src="https://img.icons8.com/color/48/000000/express.png"/> Express.js
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="24" height="24" /> Node.js
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo.svg" width="24" height="24" /> MongoDB
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="24" height="24" /> Express.js
 
-- **Authentication**: JSON Web Tokens (JWT).
+
 - **Styling**: CSS (or use of libraries like Bootstrap or Material UI).
 
-## Prerequisites
 
-Before running the application, make sure you have the following installed:
 
-- Node.js and npm (or yarn)
-- MongoDB (running locally or a connection to a MongoDB instance)
-
-## Getting Started
-
-### Installation
