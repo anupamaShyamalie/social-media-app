@@ -6,10 +6,13 @@ This project is a full-stack social media application built using the MERN stack
 
 ## Screenshots
 
-![Register Page](./screenshots/register.gif)
-![Login Page](./screenshots/login.gif)
-![Feed Page](./screenshots/share.gif)
-![Chat Interface](./screenshots/chat.gif)
+| Screenshot | Description |
+|------------|-------------|
+| <img src="./screenshots/register.gif" alt="Register Page" width="300"/> | **Register Page**: User registration page with form validation. |
+| <img src="./screenshots/login.gif" alt="Login Page" width="300"/> | **Login Page**: User login page with authentication. |
+| <img src="./screenshots/share.gif" alt="Feed Page" width="300"/> | **Feed Page**: Main feed where users can share and view posts. |
+| <img src="./screenshots/chat.gif" alt="Chat Interface" width="300"/> | **Chat Interface**: Real-time private messaging with socket.io. |
+
 
 ## Features
 
