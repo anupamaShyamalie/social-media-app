@@ -6,9 +6,10 @@ This project is a full-stack social media application built using the MERN stack
 
 ## Screenshots
 
-![Login Page](./screenshots/login-page.png)
-![Feed Page](./screenshots/feed-page.png)
-![Chat Interface](./screenshots/chat-interface.png)
+![Register Page](./screenshots/register.gif)
+![Login Page](./screenshots/login.gif)
+![Feed Page](./screenshots/share.gif)
+![Chat Interface](./screenshots/chat.gif)
 
 ## Features
 
