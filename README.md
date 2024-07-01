@@ -31,7 +31,8 @@ This project is a full-stack social media application built using the MERN stack
   - <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="24" height="24" /> Socket.io-client
 - **Backend**: 
   - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="24" height="24" /> Node.js
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/MongoDB_Logo.svg" width="24" height="24" /> MongoDB
+  - <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="24" height="24" /> Node.js
+    
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="24" height="24" /> Express.js
 
 
