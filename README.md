@@ -36,7 +36,6 @@ This project is a full-stack social media application built using the MERN stack
   - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="24" height="24" /> Express.js
 
 
-- **Styling**: CSS (or use of libraries like Bootstrap or Material UI).
-
+- **Styling**: CSS 
 
 
